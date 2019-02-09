@@ -17,3 +17,6 @@ Firstly, create a webpage similar to that shown below. The page should display f
 Secondly, create a facility where you can upload and process a data file. You can use the data file below as an example but please ensure you add additional data in order to create a more content rich application. You should source your own images and place them in a folder. However the path to the images should be written as part of the data file. The upload facility should be accessed via the ‘upload’ link in the navigation bar and return you to the moodslider page once the upload has taken place. 
 
 Once your content upload is complete, the customer should be able to move the sliders to suit their mood and the application should display a selection of the content you have uploaded which should be based on the preferences they have made. You should focus on moving one of the sliders and retrieving content, however extra credit will be given for retrieving content based on moving multiple sliders and therefore creating a profile based on multiple moods. 
+
+## Image
+![Moodslider](https://github.com/CamzBarber/sky-moodslider/blob/master/sky.png?raw=true)
