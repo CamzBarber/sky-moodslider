@@ -4,6 +4,9 @@
 
 A project developed for Sky which suggests films and tv shows to watch, based on the users mood. This project was a success and progressed to the next stage of Sky.
 
+## Image
+![Moodslider](https://github.com/CamzBarber/sky-moodslider/blob/master/sky.png?raw=true)
+
 ## Scenario 
 
 There is no doubt that content is one of the most important things to Sky. As a result how content is made available and recommended to customers needs careful consideration and Sky is always looking for innovating ways of doing this. 
@@ -18,5 +21,3 @@ Secondly, create a facility where you can upload and process a data file. You ca
 
 Once your content upload is complete, the customer should be able to move the sliders to suit their mood and the application should display a selection of the content you have uploaded which should be based on the preferences they have made. You should focus on moving one of the sliders and retrieving content, however extra credit will be given for retrieving content based on moving multiple sliders and therefore creating a profile based on multiple moods. 
 
-## Image
-![Moodslider](https://github.com/CamzBarber/sky-moodslider/blob/master/sky.png?raw=true)
