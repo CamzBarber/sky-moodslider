@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<programmeData>
+    <programme>
+        <name>I Got Life!</name>
+        <image>img/content/i_got_life.jpg</image>
+        <mood>Agitated</mood>
+    </programme> 
+    <programme>
+        <name>Tully</name>
+        <image>img/content/tully.jpg</image>
+        <mood>Agitated</mood>
+    </programme> 
+    <programme>
+        <name>Proud Mary</name>
+        <image>img/content/proud_mary.jpg</image>
+        <mood>Agitated</mood>
+    </programme> 
+    <programme>
+        <name>Thoroughbreds</name>
+        <image>img/content/thoroughbreds.jpg</image>
+        <mood>Agitated</mood>
+    </programme> 
+    <programme>
+        <name>Mary Magdalene</name>
+        <image>img/content/mary_magdalene.jpg</image>
+        <mood>Agitated</mood>
+    </programme> 
+    <programme>
+        <name>Katie Says Goodbye</name>
+        <image>img/content/katie_says_goodbye.jpg</image>
+        <mood>Agitated</mood>
+    </programme> 
+    <programme>
+        <name>Western</name>
+        <image>img/content/western.jpg</image>
+        <mood>Agitated</mood>
+    </programme> 
+    <programme>
+        <name>The Sound of Music</name>
+        <image>img/content/sound_of_music.jpg</image>
+        <mood>Calm</mood>
+    </programme>
+    <programme>
+        <name>Grease</name>
+        <image>img/content/grease.jpg</image>
+        <mood>Calm</mood>
+    </programme>
+    <programme>
+        <name>Tootsie</name>
+        <image>img/content/tootsie.jpg</image>
+        <mood>Calm</mood>
+    </programme>
+    <programme>
+        <name>Singin' in the Rain</name>
+        <image>img/content/singin_in_the_rain.jpg</image>
+        <mood>Calm</mood>
+    </programme>
+    <programme>
+        <name>Herbie Goes Bananas</name>
+        <image>img/content/herbie_goes_bananas.jpg</image>
+        <mood>Calm</mood>
+    </programme>
+    <programme>
+        <name>Casablanca</name>
+        <image>img/content/casablanca.jpg</image>
+        <mood>Calm</mood>
+    </programme>
+    <programme>
+        <name>The Love Bug</name>
+        <image>img/content/the_love_bug.jpg</image>
+        <mood>Calm</mood>
+    </programme>
+    <programme>
+        <name>School of Rock</name>
+        <image>img/content/school_of_rock.jpg</image>
+        <mood>Happy</mood>
+    </programme>   
+    <programme>
+        <name>Life Itself</name>
+        <image>img/content/life_itself.jpg</image>
+        <mood>Happy</mood>
+    </programme> 
+    <programme>
+        <name>The Princess Diaries</name>
+        <image>img/content/the_princess_diaries.jpg</image>
+        <mood>Happy</mood>
+    </programme>  
+    <programme>
+        <name>Mr Bean's Holiday</name>
+        <image>img/content/mr_beans_holiday.jpg</image>
+        <mood>Happy</mood>
+    </programme>  
+    <programme>
+        <name>Bean</name>
+        <image>img/content/bean.jpg</image>
+        <mood>Happy</mood>
+    </programme>  
+    <programme>
+        <name>Mamma Mia</name>
+        <image>img/content/mamma_mia.jpg</image>
+        <mood>Happy</mood>
+    </programme>  
+    <programme>
+        <name>Peter Rabbit</name>
+        <image>img/content/peter_rabbit.jpg</image>
+        <mood>Happy</mood>
+    </programme>  
+    <programme>
+        <name>Rampage</name>
+        <image>img/content/rampage.jpg</image>
+        <mood>Sad</mood>
+    </programme>  
+    <programme>
+        <name>The Blind Spot</name>
+        <image>img/content/the_blind_spot.jpg</image>
+        <mood>Sad</mood>
+    </programme>  
+    <programme>
+        <name>Die Hard</name>
+        <image>img/content/die_hard.jpg</image>
+        <mood>Sad</mood>
+    </programme>  
+    <programme>
+        <name>Thumper</name>
+        <image>img/content/thumper.jpg</image>
+        <mood>Sad</mood>
+    </programme>  
+    <programme>
+        <name>Collateral Damage</name>
+        <image>img/content/collateral_damage.jpg</image>
+        <mood>Sad</mood>
+    </programme>  
+    <programme>
+        <name>Layer Cake</name>
+        <image>img/content/layer_cake.jpg</image>
+        <mood>Sad</mood>
+    </programme>  
+    <programme>
+        <name>All the Money in the World</name>
+        <image>img/content/all_the_money_in_the_world.jpg</image>
+        <mood>Sad</mood>
+    </programme>  
+    <programme>
+        <name>Jackass 2.5</name>
+        <image>img/content/jackass25.jpg</image>
+        <mood>Tired</mood>
+    </programme>  
+    <programme>
+        <name>Jackass 3</name>
+        <image>img/content/jackass3.jpg</image>
+        <mood>Tired</mood>
+    </programme> 
+    <programme>
+        <name>The Pixar Story</name>
+        <image>img/content/the_pixar_story.jpg</image>
+        <mood>Tired</mood>
+    </programme> 
+    <programme>
+        <name>Fast and Furious</name>
+        <image>img/content/fast_and_furious.jpg</image>
+        <mood>Tired</mood>
+    </programme> 
+    <programme>
+        <name>The Top Ten Show</name>
+        <image>img/content/top_ten_show.jpg</image>
+        <mood>Tired</mood>
+    </programme> 
+    <programme>
+        <name>Captain America</name>
+        <image>img/content/captain_america.jpg</image>
+        <mood>Tired</mood>
+    </programme> 
+    <programme>
+        <name>Trekkies</name>
+        <image>img/content/trekkies.jpg</image>
+        <mood>Tired</mood>
+    </programme> 
+    <programme>
+        <name>First Blood</name>
+        <image>img/content/first_blood.jpg</image>
+        <mood>Wide Awake</mood>
+    </programme>  
+    <programme>
+        <name>Green Lantern</name>
+        <image>img/content/green_lantern.jpg</image>
+        <mood>Wide Awake</mood>
+    </programme>  
+    <programme>
+        <name>Superman</name>
+        <image>img/content/superman.jpg</image>
+        <mood>Wide Awake</mood>
+    </programme>
+    <programme>
+        <name>Son of Batman</name>
+        <image>img/content/son_of_batman.jpg</image>
+        <mood>Wide Awake</mood>
+    </programme>
+    <programme>
+        <name>Batman: Bad Blood</name>
+        <image>img/content/batman_bad_blood.jpg</image>
+        <mood>Wide Awake</mood>
+    </programme>
+    <programme>
+        <name>Justice League: Doom</name>
+        <image>img/content/doom.jpg</image>
+        <mood>Wide Awake</mood>
+    </programme>
+    <programme>
+        <name>Lego Batman</name>
+        <image>img/content/lego_batman.jpg</image>
+        <mood>Wide Awake</mood>
+    </programme>
+    <programme>
+        <name>Cinderella</name>
+        <image>img/content/cinderella.jpg</image>
+        <mood>Scared</mood>
+    </programme>
+    <programme>
+        <name>Sleeping Beauty</name>
+        <image>img/content/sleeping_beauty.jpg</image>
+        <mood>Scared</mood>
+    </programme>
+    <programme>
+        <name>Coco</name>
+        <image>img/content/coco.jpg</image>
+        <mood>Scared</mood>
+    </programme>
+    <programme>
+        <name>Superdad</name>
+        <image>img/content/superdad.jpg</image>
+        <mood>Scared</mood>
+    </programme>
+    <programme>
+        <name>Tarzan</name>
+        <image>img/content/tarzan.jpg</image>
+        <mood>Scared</mood>
+    </programme>
+    <programme>
+        <name>Underdog</name>
+        <image>img/content/underdog.jpg</image>
+        <mood>Scared</mood>
+    </programme>
+    <programme>
+        <name>Cool Runnings</name>
+        <image>img/content/cool_runnings.jpg</image>
+        <mood>Scared</mood>
+    </programme>
+    <programme>
+        <name>A nightmare on Elm Street</name>
+        <image>img/content/nightmare_on_elm_street.jpg</image>
+        <mood>Fearless</mood>
+    </programme>
+    <programme>
+        <name>Truth or Dare</name>
+        <image>img/content/truth_or_dare.jpg</image>
+        <mood>Fearless</mood>
+    </programme>
+    <programme>
+        <name>Wildling</name>
+        <image>img/content/wildling.jpg</image>
+        <mood>Fearless</mood>
+    </programme>
+    <programme>
+        <name>Red Eye</name>
+        <image>img/content/red_eye.jpg</image>
+        <mood>Fearless</mood>
+    </programme>
+    <programme>
+        <name>The Shining</name>
+        <image>img/content/the_shining.jpg</image>
+        <mood>Fearless</mood>
+    </programme>
+    <programme>
+        <name>Annabelle</name>
+        <image>img/content/annabelle.jpg</image>
+        <mood>Fearless</mood>
+    </programme>
+    <programme>
+        <name>The Village</name>
+        <image>img/content/the_village.jpg</image>
+        <mood>Fearless</mood>
+    </programme>
+</programmeData>
+

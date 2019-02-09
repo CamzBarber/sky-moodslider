@@ -1,0 +1,151 @@
+<!--
+
+Sky Engineering Academy - Unattended Test
+Content Recommendations Application
+
+Developed by Cameron Barber (2019)
+
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sky | Moodslider</title>
+        <link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
+        
+        <!-- Meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- Bootstrap required: CSS, jQuery, Popper.js, Bootstrap.js-->
+        <link rel="stylesheet" href="bootstrap/bootstrap.min.css">
+        <script src="bootstrap/jquery.min.js"></script>
+        <script src="bootstrap/popper.min.js"></script>
+        <script src="bootstrap/bootstrap.min.js"></script>
+        
+        <!-- My CSS -->
+        <link rel="stylesheet" href="style/style.css">
+    </head>
+    <body>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-sm">
+            <div class="container">
+                <!-- Logo/ Name -->
+                <a class="navbar-brand" href="#">
+                    <img src="img/logo.png" alt="Sky Logo" style="width:80px;">
+                </a>
+                <!-- More info: mr-auto right aligns the button, ml-5 for Moonslider spacing from logo -->
+                <a class="navbar-brand mr-auto ml-4 text-muted" href="#"><p class="h3 m-auto">Moodslider</p></a>
+
+                <!-- Content Upload Button: with hidden file chooser to remove file name and style the button -->
+                <input type="file" id="fileChooser" accept=".xml" hidden>
+                <input class="btn btn-outline-primary" type="button" value="Upload Content" onclick="document.getElementById('fileChooser').click();">
+            </div>
+        </nav>
+        
+        <!-- Main section -->
+        <div class="bg-light pt-4 pb-4">
+            <div class="container bg-light">
+                
+                <h4 class="pb-3 text-center">What mood are you in?</h4>
+                
+                <!-- Mood sliders -->
+                <div class="card-deck">
+                    <div class="card p-3">
+                        <div class="alert alert-danger" id="alert">
+                            <strong>Alert!</strong> Please upload your content in the top right before you use the sliders.
+                        </div>
+                        <div class="row mb-3 slider-parent">
+                            <div class="col-3 text-center">Agitated</div>
+                            <div class="col-6">
+                                <div class="slider-container">
+                                    <input type="range" min="1" max="3" value="2" class="slider" id="slider1">
+                                </div>
+                            </div>
+                            <div class="col-3 text-center">Calm</div>  
+                        </div>
+
+                        <div class="row mb-3 slider-parent">
+                            <div class="col-3 text-center">Happy</div>
+                            <div class="col-6">
+                                <div class="slider-container">
+                                    <input type="range" min="1" max="3" value="2" class="slider" id="slider2">
+                                </div>
+                            </div>
+                            <div class="col-3 text-center">Sad</div>  
+                        </div>
+
+                        <div class="row mb-3 slider-parent">
+                            <div class="col-3 text-center">Tired</div>
+                            <div class="col-6">
+                                <div class="slider-container">
+                                    <input type="range" min="1" max="3" value="2" class="slider" id="slider3">
+                                </div>
+                            </div>
+                            <div class="col-3 text-center">Wide Awake</div>  
+                        </div>
+
+                        <div class="row slider-parent">
+                            <div class="col-3 text-center">Scared</div>
+                            <div class="col-6">
+                                <div class="slider-container">
+                                    <input type="range" min="1" max="3" value="2" class="slider" id="slider4">
+                                </div>
+                            </div>
+                            <div class="col-3 text-center">Fearless</div>  
+                        </div>
+                    </div>
+                </div>
+
+                
+                <!-- Content suggestions section -->
+                <h4 class="pb-3 pt-4 text-center">Might we suggest...</h4>
+                
+                <div class="card-deck">
+                    <div class="card" id="card1">
+                        <img class="card-img-top" src="" alt="No content" onerror="this.src='img/no_content.png'">
+                        <div class="card-body text-center">
+                            <p class="card-text">No content</p>
+                        </div>
+                    </div>
+                    <div class="card" id="card2">
+                        <img class="card-img-top" src="" alt="No content" onerror="this.src='img/no_content.png'">
+                        <div class="card-body text-center">
+                            <p class="card-text">No content</p>
+                        </div>
+                    </div>
+                    <div class="card" id="card3">
+                        <img class="card-img-top" src="" alt="No content" onerror="this.src='img/no_content.png'">
+                        <div class="card-body text-center">
+                            <p class="card-text">No content</p>
+                        </div>
+                    </div>
+                    <div class="card" id="card4">
+                        <img class="card-img-top" src="" alt="No content" onerror="this.src='img/no_content.png'">
+                        <div class="card-body text-center">
+                            <p class="card-text">No content</p>
+                        </div>
+                    </div>
+                    <div class="card" id="card5">
+                        <img class="card-img-top" src="" alt="No content" onerror="this.src='img/no_content.png'">
+                        <div class="card-body text-center">
+                            <p class="card-text">No content</p>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+        
+        <!-- Load the JavaScript -->
+        <script src="moodslider.js"></script>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <div class="container text-muted text-center">
+                Developed by Cameron Barber (2019)
+            </div>
+        </div>
+    </body>
+</html>
